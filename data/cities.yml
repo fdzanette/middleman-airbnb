@@ -1,0 +1,13 @@
+cities.yml
+-name: Berlin
+  picture: 'https://kitt.lewagon.com/placeholder/cities/Berlin'
+-name: Paris
+  picture: 'https://kitt.lewagon.com/placeholder/cities/Paris'
+-name: London
+  picture: 'https://kitt.lewagon.com/placeholder/cities/London'
+-name: Rio
+  picture: 'https://kitt.lewagon.com/placeholder/cities/Rio'
+-name: Lisbon
+  picture: 'https://kitt.lewagon.com/placeholder/cities/Lisbon'
+-name: Shanghai
+  picture: 'https://kitt.lewagon.com/placeholder/cities/shanghai'
